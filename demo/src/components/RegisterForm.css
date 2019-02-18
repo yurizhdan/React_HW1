@@ -1,0 +1,26 @@
+
+.form-content
+{
+    padding: 5%;
+    border: 1px solid #ced4da;
+}
+.form-control{
+    border-radius:1.5rem;
+}
+.form-group{
+    margin-top: 10px;
+}
+.form-group input{
+    height: 20px;
+}
+.btnSubmit
+{
+    border:none;
+    border-radius:1.5rem;
+    padding: 1%;
+    width: 20%;
+    margin-top: 10px;
+    cursor: pointer;
+    background: #0062cc;
+    color: #fff;
+}
